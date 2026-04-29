@@ -1,0 +1,28 @@
+# Generated data — not committed (each user has their own)
+data/gestures.csv
+data/gestures_v1.csv
+data/.firstlaunch_done
+data/motion_templates.pkl
+
+# Pre-collected data IS committed — do not ignore
+!data/pretrained/
+!data/pretrained/gestures.csv
+
+# Generated model files
+models/gesture_classifier.pkl
+models/gesture_classifier_v1.pkl
+models/training_report.json
+models/training_report_v1.json
+models/hand_landmarker.task
+
+# Generated analysis plots
+results/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
