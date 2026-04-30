@@ -8,7 +8,7 @@ A real-time American Sign Language (ASL) alphabet recognition system that transl
 
 
 - **Project Demo :** `https://youtu.be/W8t6FN2znXs`
-- **Technical Walkthrough (5–10 min):** `[LINK TO WALKTHROUGH VIDEO]`
+- **Technical Walkthrough :** `https://youtu.be/40koIa9K-j4`
 
 ---
 
