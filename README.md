@@ -6,9 +6,8 @@ A real-time American Sign Language (ASL) alphabet recognition system that transl
 
 ## Video Links
 
-> ⚠️ **Add your video links here before submission**
 
-- **Project Demo (3–5 min):** `[LINK TO DEMO VIDEO]`
+- **Project Demo :** `https://youtu.be/W8t6FN2znXs`
 - **Technical Walkthrough (5–10 min):** `[LINK TO WALKTHROUGH VIDEO]`
 
 ---
